@@ -6,7 +6,7 @@
 
 * [Server Streaming - Message Server](/projects/grpc/grpc-2)
 
-  This sample shows how to do simple gRPC sever streaming.
+  This sample shows how to do simple gRPC server streaming.
 
 * [Client Streaming - Fortune Cookie Server](/projects/grpc/grpc-3)
 
