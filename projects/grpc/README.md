@@ -48,11 +48,11 @@
 
 * [Server Streaming - Message Server](/projects/grpc/grpc-11)
 
-  This sample shows how to do simple gRPC sever streaming.
+  This sample shows how to do simple gRPC server streaming.
 
 * [Server Streaming - Message Server - Blazor Web Assembly](/projects/grpc/grpc-12)
 
-  This sample shows how to do simple gRPC sever streaming with Blazor Web Assembly client.
+  This sample shows how to do simple gRPC server streaming with Blazor Web Assembly client.
   
 ## Other collections of gRPC samples
 
